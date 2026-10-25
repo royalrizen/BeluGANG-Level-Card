@@ -2,7 +2,9 @@
 
 This API is designed for generating level cards and checking link redirects. Originally created as a separate API but later integrated inside the BeluGANG Events bot.
 
-![BeluGANG](assets/cache/beluga.svg)
+<a href="https://discord.gg/beluga">
+  <img src="assets/cache/beluga.svg" alt="BeluGANG" width="432">
+</a>
 
 ## Contributors
 ![royalrizen](https://img.shields.io/badge/Discord-%40royalrizen-5865F2?style=flat&logo=discord&logoColor=white)
