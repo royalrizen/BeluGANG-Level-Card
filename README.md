@@ -1,4 +1,4 @@
-# BeluGANG Level Card
+# BeluGANG Level Card ✨
 
 This API is designed for generating level cards and checking link redirects. Originally created as a separate API but later integrated inside the BeluGANG Events bot.
 
