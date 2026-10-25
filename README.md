@@ -16,5 +16,6 @@ This API is designed for generating level cards and checking link redirects. Ori
 - `/redirect` - Checks link redirects and provides detailed information.
 
 <br>
-> [!WARNING]  
+
+> [!WARNING] 
 > When hosting on Vercel, please set the Node version to **18.x** to ensure compatibility.
