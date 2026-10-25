@@ -1,4 +1,8 @@
 # BeluGANG Level Card ✨
+[![Pillow](https://img.shields.io/badge/Pillow-FFD43B?style=flat&logo=python&logoColor=black)](https://pillow.readthedocs.io/)
+[![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white)](https://requests.readthedocs.io/)
+[![aiohttp](https://img.shields.io/badge/aiohttp-4CAF50?style=flat&logo=python&logoColor=white)](https://docs.aiohttp.org/)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 This API is designed for generating level cards and checking link redirects. Originally created as a separate API but later integrated inside the BeluGANG Events bot.
 
